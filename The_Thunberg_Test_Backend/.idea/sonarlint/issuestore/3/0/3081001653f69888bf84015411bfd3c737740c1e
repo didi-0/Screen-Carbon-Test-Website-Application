@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Áº­8ÇˆË 1
+t	java:S116"XRename this field "backdrop_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ŠÏŒ8Û®Ë 1
+u	java:S116"TRename this field "genre_ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ×Œõıÿÿÿÿ8œ®Ë 1
+x	java:S116"\Rename this field "original_language" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼úç†8Ø›‘Ë 1
+z	java:S116"YRename this field "original_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢àÊ¤ıÿÿÿÿ8ìÌ‘Ë 1
+w	java:S116"VRename this field "poster_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛçşÆùÿÿÿÿ8¢ş“Ë 1
+s	java:S116"WRename this field "release_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹›ºì8¹§”Ë 1
+s	java:S116"WRename this field "vote_average" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èËµï8ñô•Ë 1
+q	java:S116"URename this field "vote_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚğÁ8Ôô–Ë 1
+p	java:S116"TRename this field "credit_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÿ¸ï8‡£˜Ë 1
+q	java:S116"URename this field "media_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´şä”8‰Á™Ë 1
